@@ -1,0 +1,15 @@
+(cl:defpackage hdl_graph_slam-srv
+  (:use )
+  (:export
+   "DUMPGRAPH"
+   "<DUMPGRAPH-REQUEST>"
+   "DUMPGRAPH-REQUEST"
+   "<DUMPGRAPH-RESPONSE>"
+   "DUMPGRAPH-RESPONSE"
+   "SAVEMAP"
+   "<SAVEMAP-REQUEST>"
+   "SAVEMAP-REQUEST"
+   "<SAVEMAP-RESPONSE>"
+   "SAVEMAP-RESPONSE"
+  ))
+

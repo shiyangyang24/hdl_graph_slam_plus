@@ -1,0 +1,8 @@
+prefix=/home/shiyang/advanced_car/devel
+
+Name: watrix_vp
+Description: Description of watrix_vp
+Version: 0.0.0
+Cflags: -I/home/shiyang/advanced_car/devel/include
+Libs: -L/home/shiyang/advanced_car/devel/lib 
+Requires: message_runtime

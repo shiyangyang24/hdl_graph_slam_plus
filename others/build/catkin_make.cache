@@ -1,0 +1,2 @@
+A-LOAM:hdl_graph_slam:ndt_omp:watrix_vp
+-DCATKIN_DEVEL_PREFIX=/home/shiyang/advanced_car/devel -DCMAKE_INSTALL_PREFIX=/home/shiyang/advanced_car/install -G Unix Makefiles
